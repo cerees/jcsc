@@ -1,7 +1,7 @@
 title: Jame Connolly Scocial Club
 description: > # this means to ignore newlines until "baseurl:"
   Your description
-baseurl: "/jcsc" # the subpath of your site, e.g. /blog
+baseurl: "/jcsc/" # the subpath of your site, e.g. /blog
 url: "cerees.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
@@ -9,7 +9,7 @@ markdown: kramdown
 facebook:
   app_id:
 
-logo: "./css/2016_style/img/jcsc_2_background.png"
+logo: "../css/2016_style/img/jcsc_2_background.png"
 
 social:
   name: JCSC Facebook

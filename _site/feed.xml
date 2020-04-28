@@ -4,10 +4,10 @@
     <title>Jame Connolly Scocial Club</title>
     <description>Your description
 </description>
-    <link>http://localhost:4000/jcsc/</link>
-    <atom:link href="http://localhost:4000/jcsc/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Apr 2020 13:33:48 -0400</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2020 13:33:48 -0400</lastBuildDate>
+    <link>http://localhost:4000/jcsc//</link>
+    <atom:link href="http://localhost:4000/jcsc//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Apr 2020 13:35:47 -0400</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2020 13:35:47 -0400</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
   </channel>
