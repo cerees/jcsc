@@ -1,0 +1,11 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 355443
+  secondary: eb544b
+  secondary-dark: eb544b
+  muted: 777
+
+# Font Families
+font:
+  primary: '"gotham-black"'
+  secondary: '"gotham-bold"'
