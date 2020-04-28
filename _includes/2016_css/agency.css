@@ -19,17 +19,17 @@ html {
 
 @font-face {
 	font-family: "gotham-book";
-	src: url("../2016_style/fonts/Gotham/Gotham-Book.ttf");
+	src: url("./2016_style/fonts/Gotham/Gotham-Book.ttf");
 }
 
 @font-face {
 	font-family: "gotham-bold";
-	src: url("../2016_style/fonts/Gotham/Gotham-Bold.ttf");
+	src: url("./2016_style/fonts/Gotham/Gotham-Bold.ttf");
 }
 
 @font-face {
 	font-family: "gotham-black";
-	src: url("../2016_style/fonts/Gotham/Gotham-Black.ttf");
+	src: url("./2016_style/fonts/Gotham/Gotham-Black.ttf");
 }
 
 

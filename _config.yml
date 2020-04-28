@@ -9,7 +9,7 @@ markdown: kramdown
 facebook:
   app_id:
 
-logo: "../css/2016_style/img/jcsc_2_background.png"
+logo: "./css/2016_style/img/jcsc_2_background.png"
 
 social:
   name: JCSC Facebook
